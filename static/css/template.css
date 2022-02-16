@@ -1,0 +1,17 @@
+table {
+    margin: auto;
+    font-family: Helvetica, Arial, sans-serif;
+    border: 1px solid gray;
+}
+td, th {
+    font-size: 80%;
+    border: 1px solid gray;
+}
+h1,h2 {
+    clear: both;
+    display: block;
+}
+.container {
+    padding: 0;
+    margin: auto;
+}
